@@ -28,11 +28,16 @@ func LoadEmailConfig() EmailConfig {
 		// Port:     587, // Default SMTP port
 		// Username: os.Getenv("SMTP_USER"),
 		// Password: os.Getenv("SMTP_PASSWORD"),
-		From:     "MS_ZXbl5m@trial-0r83ql37qzxgzw1j.mlsender.net",
-		Host:     "smtp.mailersend.net",
-		Port:     587,
-		Username: "MS_ZXbl5m@trial-0r83ql37qzxgzw1j.mlsender.net",
-		Password: "mssp.ItLhYfM.v69oxl5ywkx4785k.N1eGbz3",
+		// From:     "MS_ZXbl5m@trial-0r83ql37qzxgzw1j.mlsender.net",
+		// Host:     "smtp.mailersend.net",
+		// Port:     587,
+		// Username: "MS_ZXbl5m@trial-0r83ql37qzxgzw1j.mlsender.net",
+		// Password: "mssp.ItLhYfM.v69oxl5ywkx4785k.N1eGbz3",
+		// From:     "MS_0uD1oL@trial-ynrw7gyo86ol2k8e.mlsender.net",
+		// Host:     "smtp.mailersend.net",
+		// Port:     587,
+		// Username: "MS_0uD1oL@trial-ynrw7gyo86ol2k8e.mlsender.net",
+		// Password: "mssp.1xzWiSX.pq3enl6yd9rg2vwr.o2iZEAN",
 	}
 }
 
